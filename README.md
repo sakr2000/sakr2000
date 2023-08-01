@@ -1,12 +1,12 @@
 # Mohamed Sakr 👨🏻‍💻🦅
-<h3 align="center">A passionate Web Developer from Egypt</h3>
+<h3 align="center">Web Developer | Computer Engineer </h3>
 
 <div align="center">
   
 [**Email Me**](mailto:sakr83117@gmail.com)
 </div>
 
-## Languages and Tools
+## Languages and Tools ⚙️
 
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100" style="padding-right:10px;"/> </a> 
@@ -28,7 +28,7 @@
 
 ## Statistics 📊
 
-<br><div class="stats" align="center">
+<div class="stats" align="center">
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakr2000&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
