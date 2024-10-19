@@ -11,14 +11,13 @@
 ***
 
 Hi there👋 :
-- I'm a web developer focusing on **`Front-end development`**.
-- I'm currently learning more about **Angular framework**.
-- My focus is on creating engaging user interfaces and functional responsive websites.
-- I also have some experience in **`Back-end development`** and dealing with databases and APIs.
+- I'm a full-stack web developer focusing on both **`Front-end development`** and **`Back-end development`**.
+- I have experiance with: **Angular** - **React** - **ASP.NET Framework** .
+- My focus is on creating engaging user interfaces and functional responsive web applications.
 
 <div align="center">
 
-[**E-mail Me**](https://mail.google.com/mail/?view=cm&source=mailto&to=sakr83117@gmail.com)
+[**E-mail Me**](https://mail.google.com/mail/?view=cm&source=mailto&to=mohamed.y.sakr99@gmail.com)
 </div>
 <br>
 <picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100% height=420px></picture>
@@ -28,7 +27,7 @@ Hi there👋 :
 <table align="center" border="none"><tr border="none">
 <td width="50%" align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,python,flask,git,java,postman,ts,php,sass,vercel,github&perline=4)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,redux,figma,bootstrap,tailwind,sass,cs,dotnet,python,flask,git,postman,php,vercel,github&perline=4)
 </td>
 
 <td width="50%" align="center">
@@ -43,8 +42,8 @@ Hi there👋 :
 
 <div align="center">
   
-![Mohamed Sakr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakr2000&hide=stars&count_private=true&show_icons=true&theme=dark&border_radius=20)
-![Mohamed Sakr's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sakr2000&theme=dark&hide_border=false)
+![Mohamed Sakr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakr2000&hide=stars&count_private=true&show_icons=true&theme=react&border_radius=5)
+![Mohamed Sakr's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sakr2000&theme=react&hide_border=false&date_format=d%20M[,%20Y])
 </div>
 
 
